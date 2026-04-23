@@ -1,6 +1,6 @@
 # MacStats
 
-A free, local-only macOS app that reads your iMessage database and computes conversation analytics. Inspired by [GhostRadar](https://ghostradar.xyz) — reimagined as a free, no-feature-gating alternative.
+A free, local-only macOS app that reads your iMessage database and computes conversation analytics.
 
 > **Zero network calls. All processing is local. No telemetry. No accounts.**
 
@@ -76,6 +76,3 @@ Tune the conversation-gap and ghost thresholds, toggle compact mode, enable Cont
 - Group chats are hidden. Only 1-on-1 conversations are shown.
 - Phone and email handles for the same person are treated as separate contacts.
 
-## Credits
-
-Design inspired by [GhostRadar](https://ghostradar.xyz). This project is an independent free reimplementation and is not affiliated with or endorsed by the authors of GhostRadar.
